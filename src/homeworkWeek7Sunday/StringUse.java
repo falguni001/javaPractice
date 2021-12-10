@@ -8,7 +8,9 @@ public class StringUse {
         System.out.println(name.toUpperCase());
         System.out.println(name.charAt(3));
         System.out.println(name.length());
-        System.out.println(name.indent(3));
+        System.out.println(name.indent(5));
+        System.out.println(name.replace("F","m"));
+
 
 
 

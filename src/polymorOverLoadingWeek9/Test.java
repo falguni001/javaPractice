@@ -1,6 +1,8 @@
 package polymorOverLoadingWeek9;
 
 public class Test {
+    // compile time polymorphism
+    //static(method overloading
     //same class ,same name method ,differnt argument ,compile time
 // with  differnt number of argument
     //void  show method do not have any argument
