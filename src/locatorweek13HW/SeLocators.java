@@ -5,7 +5,7 @@ public class SeLocators {
     // locator
     //1. by ID
     //id ="Name of Id "
-    //driver.findElement(By.id("password");
+    //driver.findElement(By.id("Password");
     //2. by Name
    // Name = "Name of name "
     // driver.findElement(By.name("password")
